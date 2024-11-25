@@ -1,0 +1,11 @@
+Link to Dataset:
+ 
+1. Global Earth Surface Land Temperature Dataset
+https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data?select=GlobalLandTemperaturesByCountry.csv
+
+2. Sea Level Change Dataset
+https://www.kaggle.com/datasets/somesh24/sea-level-change/data
+
+3. Sea Ice Level Dataset
+https://www.kaggle.com/datasets/nsidcorg/daily-sea-ice-extent-data
+
